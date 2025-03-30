@@ -1,0 +1,51 @@
+* {
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+body {
+    color: rgb(225, 225, 225);
+    background-color: #15202B;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.text-container {
+    padding: 100px;
+    padding-top: 50px;
+}
+
+.recipes-list {
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 300px;
+}
+
+a:link, a:visited {
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(50, 200, 200);
+    text-decoration: none;
+}
+
+.home-button {
+    background-color: lightgray;
+    margin-left: 100px;
+}
+
+.home-button a {
+    color:#15202B;
+}
+
